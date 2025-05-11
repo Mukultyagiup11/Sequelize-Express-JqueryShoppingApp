@@ -1,6 +1,7 @@
-A simple e-commerce application built with Sequelize, Express.js, and jQuery, featuring product listing and item management functionality.
+<h1>Shopping Cart</h1>
+"A simple e-commerce application built with Sequelize, Express.js, and jQuery, featuring product listing and item management functionality."
 <br>
-Features
+<h2>Features</h2>
 <br>
 Shop Page: Browse available products with details
 <br>
@@ -11,7 +12,7 @@ Responsive Design: Works on various device sizes
 Database Integration: Sequelize ORM for MySQL/PostgreSQL/SQLite
 <br>
 
-Technologies Used
+<h2>Technologies Used</h2>
 <br>
 Backend: Node.js, Express.js
 <br>
@@ -21,7 +22,7 @@ Database: Sequelize ORM (supports multiple SQL databases)
 <br>
 Other: Bootstrap (for basic styling)
 <br>
-Installation:-
+<h2>Installation:-</h2>
 <br>
 (!)Clone the repository:
 <br>
@@ -45,12 +46,12 @@ npx sequelize-cli db:migrate
 (5)Start the application
 npm start
 <br>
-Usage
+<h2>Usage</h2>
 Shop Page: Visit /shop to view all available products
 <br>
 Add Item Page: Visit /add-item to add new products to the database
 <br>
-Future Enhancements
+<h2>Future Enhancements</h2>
 User authentication system
 <br>
 Shopping cart functionality
